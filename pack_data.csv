@@ -1,1 +1,182 @@
-player1,player1_race,player2,player2_race,winner,map,game_type,ladder,file,game_version,region,game_length
+player1,player1_race,player2,player2_race,map,game_type,ladder,file,game_version,region,game_length,winrace,loser,loser_race,winner_name
+OKOKOK,Terran,SpecialK,Protoss,Data-C,1v1,True,Data-C (6).SC2Replay,88500,us,0:11:52,Protoss,OKOKOK,Terran,SpecialK
+dootlebob,Terran,ViBE,Zerg,Romanticide LE,1v1,True,Diamond 2 - ZvT - Game 1.SC2Replay,84643,us,0:20:16,Terran,ViBE,Zerg,dootlebob
+KAT,Protoss,OKOKOK,Terran,Moondance,1v1,True,Moondance (7).SC2Replay,88500,us,0:07:17,Protoss,OKOKOK,Terran,KAT
+OKOKOK,Terran,Yoda,Terran,Waterfall,1v1,True,Waterfall (17).SC2Replay,88500,us,0:05:51,Terran,Yoda,Terran,OKOKOK
+OKOKOK,Zerg,Huey,Terran,Waterfall,1v1,True,Waterfall (11).SC2Replay,88500,us,0:10:38,Zerg,Huey,Terran,OKOKOK
+ViBE,Zerg,SimpSarashna,Protoss,Lightshade LE,1v1,True,Diamond 1 - ZvP - Game 20.SC2Replay,84643,us,0:22:53,Protoss,ViBE,Zerg,SimpSarashna
+HasuGosuSoju,Terran,ViBE,Zerg,Lightshade LE,1v1,True,Diamond 2 - ZvT - Game 10.SC2Replay,84643,us,0:04:48,Zerg,HasuGosuSoju,Terran,ViBE
+ChocP,Terran,ViBE,Zerg,Blackburn LE,1v1,True,Diamond 1 - ZvT - Game 18.SC2Replay,84643,us,0:08:41,Terran,ViBE,Zerg,ChocP
+OKOKOK,Terran,LeTongue,Terran,Cosmic Sapphire,1v1,True,Cosmic Sapphire (13).SC2Replay,88500,us,0:06:08,Terran,OKOKOK,Terran,LeTongue
+Thos,Terran,OKOKOK,Terran,Stargazers,1v1,True,Stargazers (11).SC2Replay,88500,us,0:08:18,Terran,Thos,Terran,OKOKOK
+ViBE,Zerg,Quarantino,Zerg,Blackburn LE,1v1,True,Diamond 2 - ZvZ - Game 22.SC2Replay,84643,us,0:05:22,Zerg,Quarantino,Zerg,ViBE
+DroneKingPri,Zerg,ViBE,Zerg,Jagannatha LE,1v1,True,Diamond 1 - ZvZ - Game 12.SC2Replay,84643,us,0:10:01,Zerg,DroneKingPri,Zerg,ViBE
+SkiZzy,Protoss,ViBE,Zerg,Jagannatha LE,1v1,True,Diamond 1 - ZvP - Game 7.SC2Replay,84643,us,0:13:40,Zerg,SkiZzy,Protoss,ViBE
+Prodigy,Zerg,OKOKOK,Protoss,Altitude LE,1v1,True,Doraste Altitude LE.SC2Replay,90136,us,0:08:45,Zerg,OKOKOK,Protoss,Prodigy
+PenguinGamer,Terran,ViBE,Zerg,2000 Atmospheres LE,1v1,True,Diamond 3 - ZvT - Game 17.SC2Replay,84643,us,0:09:03,Zerg,PenguinGamer,Terran,ViBE
+ViBE,Zerg,Pholus,Zerg,Romanticide LE,1v1,True,Diamond 3 - ZvZ - Game 10.SC2Replay,84643,us,0:09:23,Zerg,Pholus,Zerg,ViBE
+Teach,Terran,OKOKOK,Zerg,Cosmic Sapphire,1v1,True,Cosmic Sapphire.SC2Replay,88500,us,0:11:20,Zerg,Teach,Terran,OKOKOK
+deadboltz,Protoss,OKOKOK,Terran,Tropical Sacrifice,1v1,True,Tropical Sacrifice (4).SC2Replay,88500,us,0:11:34,Terran,deadboltz,Protoss,OKOKOK
+OKOKOK,Zerg,Young,Protoss,Data-C,1v1,True,Data-C (9).SC2Replay,88500,us,0:19:18,Protoss,OKOKOK,Zerg,Young
+ViBE,Zerg,TTT,Terran,Lightshade LE,1v1,True,Diamond 2 - ZvT - Game 23.SC2Replay,84643,us,0:19:19,Zerg,TTT,Terran,ViBE
+Bru,Terran,OKOKOK,Zerg,Moondance,1v1,True,Moondance (12).SC2Replay,88500,us,0:11:29,Zerg,Bru,Terran,OKOKOK
+Basio,Protoss,OKOKOK,Zerg,Stargazers,1v1,True,Stargazers.SC2Replay,88500,us,0:07:46,Protoss,OKOKOK,Zerg,Basio
+ViBE,Zerg,Powerhouse,Terran,Romanticide LE,1v1,True,Diamond 2 - ZvP - Game 16.SC2Replay,84643,us,0:29:17,Zerg,Powerhouse,Terran,ViBE
+IIIIIIIII,Zerg,OKOKOK,Zerg,Data-C,1v1,True,Data-C (7).SC2Replay,88500,us,0:00:01,Zerg,IIIIIIIII,Zerg,OKOKOK
+CANCERBERO,Zerg,OKOKOK,Zerg,Waterfall,1v1,True,Waterfall (2).SC2Replay,88500,us,0:13:45,Zerg,CANCERBERO,Zerg,OKOKOK
+OKOKOK,Zerg,Lepsid,Terran,Cosmic Sapphire,1v1,True,Cosmic Sapphire (5).SC2Replay,88500,us,0:08:50,Terran,OKOKOK,Zerg,Lepsid
+OKOKOK,Zerg,Doraste,Protoss,Glittering Ashes LE,1v1,False,Glittering Ashes LE.SC2Replay,86383,us,0:07:44,Zerg,Doraste,Protoss,OKOKOK
+AboveThunder,Zerg,ViBE,Zerg,Beckett Industries LE,1v1,True,Diamond 2 - ZvZ - Game 12.SC2Replay,84643,us,0:10:38,Zerg,AboveThunder,Zerg,ViBE
+BoB,Terran,OKOKOK,Zerg,Tropical Sacrifice,1v1,True,Tropical Sacrifice (11).SC2Replay,88500,us,0:11:14,Zerg,BoB,Terran,OKOKOK
+Deathsauce,Protoss,OKOKOK,Zerg,Gresvan LE,1v1,True,Gresvan LE.SC2Replay,90136,us,0:04:31,Protoss,OKOKOK,Zerg,Deathsauce
+Gnarborg,Terran,ViBE,Zerg,Oxide LE,1v1,True,Diamond 1 - ZvT - Game 2.SC2Replay,84643,us,0:14:45,Zerg,Gnarborg,Terran,ViBE
+OKOKOK,Zerg,WagonWheel,Terran,Glittering Ashes LE,1v1,True,Glittering Ashes LE (4).SC2Replay,87702,us,0:14:41,Terran,OKOKOK,Zerg,WagonWheel
+EventHorizon,Terran,OKOKOK,Terran,Glittering Ashes LE,1v1,True,Glittering Ashes LE (3).SC2Replay,87702,us,0:18:28,Terran,OKOKOK,Terran,EventHorizon
+OKOKOK,Zerg,Damien,Zerg,Pride of Altaris LE,1v1,True,Pride of Altaris LE (2).SC2Replay,87702,us,0:04:14,Zerg,OKOKOK,Zerg,Damien
+TTT,Terran,OKOKOK,Zerg,Inside and Out,1v1,True,Inside and Out.SC2Replay,88500,us,0:22:35,Zerg,TTT,Terran,OKOKOK
+ViBE,Zerg,Chiewy,Protoss,2000 Atmospheres LE,1v1,True,Diamond 2 - ZvP - Game 15.SC2Replay,84643,us,0:06:21,Protoss,ViBE,Zerg,Chiewy
+Yengling,Protoss,ViBE,Zerg,Lightshade LE,1v1,True,Diamond 3 - ZvP - Game 2.SC2Replay,84643,us,0:14:25,Zerg,Yengling,Protoss,ViBE
+OKOKOK,Zerg,AiuR,Zerg,Inside and Out,1v1,True,Inside and Out (5).SC2Replay,88500,us,0:06:23,Zerg,AiuR,Zerg,OKOKOK
+EACTurco,Terran,OKOKOK,Terran,Waterfall,1v1,True,Waterfall (6).SC2Replay,88500,us,0:12:39,Terran,EACTurco,Terran,OKOKOK
+OKOKOK,Zerg,Doraste,Protoss,Glittering Ashes LE,1v1,False,Glittering Ashes LE (2).SC2Replay,86383,us,0:15:09,Zerg,Doraste,Protoss,OKOKOK
+OKOKOK,Terran,BasicMath,Zerg,Data-C,1v1,True,Data-C (8).SC2Replay,88500,us,0:06:27,Terran,BasicMath,Zerg,OKOKOK
+Mat,Zerg,ViBE,Zerg,Beckett Industries LE,1v1,True,Diamond 3 - ZvZ - Game 1.SC2Replay,84643,us,0:12:25,Zerg,Mat,Zerg,ViBE
+Magnifico,Terran,OKOKOK,Terran,Cosmic Sapphire,1v1,True,Cosmic Sapphire (4).SC2Replay,88500,us,0:13:22,Terran,OKOKOK,Terran,Magnifico
+Geburah,Terran,OKOKOK,Protoss,Tropical Sacrifice,1v1,True,Tropical Sacrifice (3).SC2Replay,88500,us,0:04:43,Terran,OKOKOK,Protoss,Geburah
+Goose,Protoss,OKOKOK,Zerg,Cosmic Sapphire,1v1,True,Cosmic Sapphire (6).SC2Replay,88500,us,0:06:39,Zerg,Goose,Protoss,OKOKOK
+GuRuDeEp,Zerg,OKOKOK,Terran,Moondance,1v1,True,Moondance (4).SC2Replay,88500,us,0:14:18,Terran,GuRuDeEp,Zerg,OKOKOK
+Papezinhoo,Zerg,ViBE,Zerg,Lightshade LE,1v1,True,Diamond 1 - ZvZ - Game 3.SC2Replay,84643,us,0:05:01,Zerg,Papezinhoo,Zerg,ViBE
+OKOKOK,Zerg,Sumek,Zerg,Tropical Sacrifice,1v1,True,Tropical Sacrifice (8).SC2Replay,88500,us,0:08:00,Zerg,Sumek,Zerg,OKOKOK
+OKOKOK,Zerg,fixy,Protoss,Cosmic Sapphire,1v1,True,Cosmic Sapphire (10).SC2Replay,88500,us,0:08:26,Zerg,fixy,Protoss,OKOKOK
+Pipo,Terran,OKOKOK,Zerg,Waterfall,1v1,True,Waterfall (9).SC2Replay,88500,us,0:07:24,Zerg,Pipo,Terran,OKOKOK
+jordoexotic,Protoss,OKOKOK,Terran,Cosmic Sapphire,1v1,True,Cosmic Sapphire (7).SC2Replay,88500,us,0:13:40,Terran,jordoexotic,Protoss,OKOKOK
+blarg,Zerg,ViBE,Zerg,2000 Atmospheres LE,1v1,True,Diamond 2 - ZvZ - Game 7.SC2Replay,84643,us,0:09:26,Zerg,blarg,Zerg,ViBE
+JAV,Terran,ViBE,Zerg,2000 Atmospheres LE,1v1,True,Diamond 3 - ZvT - Game 9.SC2Replay,84643,us,0:12:25,Zerg,JAV,Terran,ViBE
+stewpy,Protoss,OKOKOK,Terran,Tropical Sacrifice,1v1,True,Tropical Sacrifice (9).SC2Replay,88500,us,0:06:02,Protoss,OKOKOK,Terran,stewpy
+KuroMage,Zerg,OKOKOK,Zerg,Hardwire LE,1v1,True,Hardwire LE (2).SC2Replay,87702,us,0:11:07,Zerg,OKOKOK,Zerg,KuroMage
+OKOKOK,Terran,CERVEAUMAN,Protoss,Data-C,1v1,True,Data-C (5).SC2Replay,88500,us,0:09:40,Terran,CERVEAUMAN,Protoss,OKOKOK
+OKOKOK,Zerg,Void,Protoss,Stargazers,1v1,True,Stargazers (8).SC2Replay,88500,us,0:14:07,Protoss,OKOKOK,Zerg,Void
+OKOKOK,Terran,Thos,Terran,Waterfall,1v1,True,Waterfall (18).SC2Replay,88500,us,0:06:56,Terran,Thos,Terran,OKOKOK
+ViBE,Zerg,Raúl,Zerg,Beckett Industries LE,1v1,True,Diamond 1 - ZvZ - Game 10.SC2Replay,84643,us,0:04:36,Zerg,Raúl,Zerg,ViBE
+Camel,Zerg,ViBE,Zerg,Jagannatha LE,1v1,True,Diamond 1 - ZvZ - Game 23.SC2Replay,84643,us,0:05:25,Zerg,Camel,Zerg,ViBE
+IIIIIIIII,Zerg,OKOKOK,Zerg,Inside and Out,1v1,True,Inside and Out (6).SC2Replay,88500,us,0:00:01,Zerg,IIIIIIIII,Zerg,OKOKOK
+ViBE,Zerg,DarkerDayzud,Zerg,Romanticide LE,1v1,True,Diamond 2 - ZvZ - Game 11.SC2Replay,84643,us,0:05:38,Zerg,DarkerDayzud,Zerg,ViBE
+ViBE,Zerg,ThorKen,Zerg,Lightshade LE,1v1,True,Diamond 3 - ZvZ - Game 4.SC2Replay,84643,us,0:06:33,Zerg,ThorKen,Zerg,ViBE
+ViBE,Zerg,Dingles,Protoss,Beckett Industries LE,1v1,True,Diamond 2 - ZvP - Game 13.SC2Replay,84643,us,0:13:17,Zerg,Dingles,Protoss,ViBE
+DaGreenie,Protoss,OKOKOK,Protoss,Moondance,1v1,True,Moondance (2).SC2Replay,88500,us,0:00:00,None,,,None
+ViBE,Zerg,Jam,Terran,2000 Atmospheres LE,1v1,True,Diamond 3 - ZvT - Game 7.SC2Replay,84643,us,0:12:22,Zerg,Jam,Terran,ViBE
+OKOKOK,Protoss,flipflappers,Protoss,Waterfall,1v1,True,Waterfall (3).SC2Replay,88500,us,0:17:49,Protoss,OKOKOK,Protoss,flipflappers
+ViBE,Zerg,MrTerribad,Terran,2000 Atmospheres LE,1v1,True,Diamond 3 - ZvT - Game 8.SC2Replay,84643,us,0:06:44,Zerg,MrTerribad,Terran,ViBE
+ViBE,Zerg,JSJD,Terran,Jagannatha LE,1v1,True,Diamond 2 - ZvT - Game 2.SC2Replay,84643,us,0:13:40,Zerg,JSJD,Terran,ViBE
+OKOKOK,Terran,SaSu,Terran,Inside and Out,1v1,True,Inside and Out (9).SC2Replay,88500,us,0:07:17,Terran,SaSu,Terran,OKOKOK
+uGG,Protoss,OKOKOK,Zerg,Moondance,1v1,True,Moondance (10).SC2Replay,88500,us,0:17:38,Protoss,OKOKOK,Zerg,uGG
+ViBE,Zerg,NMxMrStabby,Zerg,Romanticide LE,1v1,True,Diamond 1 - ZvZ - Game 6.SC2Replay,84643,us,0:09:42,Zerg,NMxMrStabby,Zerg,ViBE
+firebat,Terran,ViBE,Zerg,Romanticide LE,1v1,True,Diamond 1 - ZvT - Game 4.SC2Replay,84643,us,0:12:26,Zerg,firebat,Terran,ViBE
+OKOKOK,Zerg,SHOOTER,Protoss,Royal Blood LE,1v1,True,Royal Blood LE.SC2Replay,89720,us,0:03:24,Zerg,SHOOTER,Protoss,OKOKOK
+Nevik,Zerg,ViBE,Zerg,Blackburn LE,1v1,True,Diamond 3 - ZvZ - Game 15.SC2Replay,84643,us,0:17:02,Zerg,Nevik,Zerg,ViBE
+OKOKOK,Terran,Tigger,Terran,Moondance,1v1,True,Moondance (5).SC2Replay,88500,us,0:14:49,Terran,OKOKOK,Terran,Tigger
+OKOKOK,Terran,Talicsnake,Terran,Inside and Out,1v1,True,Inside and Out (4).SC2Replay,88500,us,0:07:08,Terran,OKOKOK,Terran,Talicsnake
+DaCkesitO,Terran,ViBE,Zerg,Oxide LE,1v1,True,Diamond 1 - ZvT - Game 5.SC2Replay,84643,us,0:14:36,Zerg,DaCkesitO,Terran,ViBE
+Brdi,Protoss,ViBE,Zerg,Jagannatha LE,1v1,True,Diamond 2 - ZvP - Game 27.SC2Replay,84643,us,0:21:06,Zerg,Brdi,Protoss,ViBE
+Scuachi,Zerg,OKOKOK,Terran,Data-C,1v1,True,Data-C (11).SC2Replay,88500,us,0:07:25,Terran,Scuachi,Zerg,OKOKOK
+ViBE,Zerg,Corp,Terran,Lightshade LE,1v1,True,Diamond 2 - ZvT - Game 18.SC2Replay,84643,us,0:12:08,Zerg,Corp,Terran,ViBE
+BeeThousand,Zerg,OKOKOK,Zerg,Moondance,1v1,True,Moondance (9).SC2Replay,88500,us,0:08:28,Zerg,BeeThousand,Zerg,OKOKOK
+ViBE,Zerg,mradam,Zerg,Beckett Industries LE,1v1,True,Diamond 3 - ZvZ - Game 3.SC2Replay,84643,us,0:06:33,Zerg,mradam,Zerg,ViBE
+IIIIIIIIIIII,Terran,ViBE,Zerg,Lightshade LE,1v1,True,Diamond 1 - ZvT - Game 1.SC2Replay,84643,us,0:08:47,Zerg,IIIIIIIIIIII,Terran,ViBE
+Trunks,Protoss,ViBE,Zerg,Oxide LE,1v1,True,Diamond 3 - ZvP - Game 5.SC2Replay,84643,us,0:16:41,Zerg,Trunks,Protoss,ViBE
+FoxeR,Terran,ViBE,Zerg,Beckett Industries LE,1v1,True,Diamond 1 - ZvT - Game 9.SC2Replay,84643,us,0:11:29,Zerg,FoxeR,Terran,ViBE
+MolotoV,Zerg,OKOKOK,Terran,Data-C,1v1,True,Data-C (10).SC2Replay,88500,us,0:08:35,Zerg,OKOKOK,Terran,MolotoV
+NorseGoat,Protoss,OKOKOK,Zerg,Pride of Altaris LE,1v1,True,Pride of Altaris LE.SC2Replay,86383,us,0:06:26,Protoss,OKOKOK,Zerg,NorseGoat
+OKOKOK,Terran,Supermarmota,Terran,Waterfall,1v1,True,Waterfall (15).SC2Replay,88500,us,0:03:29,Terran,OKOKOK,Terran,Supermarmota
+Chimichanga,Zerg,OKOKOK,Zerg,Cosmic Sapphire,1v1,True,Cosmic Sapphire (14).SC2Replay,88500,us,0:13:36,Zerg,Chimichanga,Zerg,OKOKOK
+OKOKOK,Zerg,Mapogu,Terran,Waterfall,1v1,True,Waterfall (8).SC2Replay,88500,us,0:12:37,Zerg,Mapogu,Terran,OKOKOK
+ViBE,Zerg,ByeonGgEo,Protoss,Beckett Industries LE,1v1,True,Diamond 1 - ZvP - Game 22.SC2Replay,84643,us,0:02:33,Zerg,ByeonGgEo,Protoss,ViBE
+ZergRhythm,Zerg,ViBE,Zerg,Jagannatha LE,1v1,True,Diamond 3 - ZvZ - Game 12.SC2Replay,84643,us,0:09:59,Zerg,ZergRhythm,Zerg,ViBE
+ZUNZET,Zerg,ViBE,Zerg,Oxide LE,1v1,True,Diamond 1 - ZvZ - Game 25.SC2Replay,84643,us,0:06:39,Zerg,ZUNZET,Zerg,ViBE
+deepfear,Zerg,OKOKOK,Zerg,Equilibrium LE,1v1,True,Equilibrium LE.SC2Replay,91115,us,0:18:44,Zerg,deepfear,Zerg,OKOKOK
+OKOKOK,Zerg,Qhuengi,Zerg,Inside and Out,1v1,True,Inside and Out (3).SC2Replay,88500,us,0:05:55,Zerg,Qhuengi,Zerg,OKOKOK
+OKOKOK,Zerg,orcrine,Protoss,Cosmic Sapphire,1v1,True,Cosmic Sapphire (2).SC2Replay,88500,us,0:07:40,Protoss,OKOKOK,Zerg,orcrine
+OKOKOK,Zerg,llllllllllll,Terran,Data-C,1v1,True,Data-C (3).SC2Replay,88500,us,0:26:28,Terran,OKOKOK,Zerg,llllllllllll
+ViBE,Zerg,abe,Zerg,Romanticide LE,1v1,True,Diamond 2 - ZvZ - Game 21.SC2Replay,84643,us,0:09:16,Zerg,abe,Zerg,ViBE
+Cin,Zerg,ViBE,Zerg,Jagannatha LE,1v1,True,Diamond 1 - ZvZ - Game 21.SC2Replay,84643,us,0:13:39,Zerg,Cin,Zerg,ViBE
+Geburah,Terran,OKOKOK,Zerg,Waterfall,1v1,True,Waterfall (5).SC2Replay,88500,us,0:13:12,Terran,OKOKOK,Zerg,Geburah
+gabrielo,Zerg,OKOKOK,Protoss,Stargazers,1v1,True,Stargazers (5).SC2Replay,88500,us,0:00:02,Zerg,OKOKOK,Protoss,gabrielo
+SkinMilk,Zerg,ViBE,Zerg,Oxide LE,1v1,True,Diamond 1 - ZvZ - Game 16.SC2Replay,84643,us,0:10:50,Zerg,SkinMilk,Zerg,ViBE
+Countersmell,Protoss,OKOKOK,Terran,Stargazers,1v1,True,Stargazers (7).SC2Replay,88500,us,0:11:44,Protoss,OKOKOK,Terran,Countersmell
+FatalglorY,Protoss,ViBE,Zerg,2000 Atmospheres LE,1v1,True,Diamond 2 - ZvP - Game 4.SC2Replay,84643,us,0:16:28,Zerg,FatalglorY,Protoss,ViBE
+OKOKOK,Zerg,awS,Zerg,Cosmic Sapphire,1v1,True,Cosmic Sapphire (3).SC2Replay,88500,us,0:06:25,Zerg,awS,Zerg,OKOKOK
+ViBE,Zerg,YourWIFI,Terran,Romanticide LE,1v1,True,Diamond 3 - ZvT - Game 14.SC2Replay,84643,us,0:12:15,Zerg,YourWIFI,Terran,ViBE
+OKOKOK,Terran,RedBrand,Protoss,Beckett Industries LE,1v1,True,Beckett Industries LE.SC2Replay,86383,us,0:11:15,Protoss,OKOKOK,Terran,RedBrand
+OKOKOK,Zerg,IIIIIIIIIIII,Terran,Waterfall,1v1,True,Waterfall (12).SC2Replay,88500,us,0:14:00,Zerg,IIIIIIIIIIII,Terran,OKOKOK
+OKOKOK,Zerg,Clutch,Zerg,Ancient Cistern LE,1v1,True,Doraste Ancient Cistern LE.SC2Replay,90136,us,0:12:11,Zerg,OKOKOK,Zerg,Clutch
+OKOKOK,Zerg,schenry,Zerg,Moondance,1v1,True,Moondance.SC2Replay,88500,us,0:08:36,Zerg,schenry,Zerg,OKOKOK
+ViBE,Zerg,Dyncommon,Terran,Romanticide LE,1v1,True,Diamond 3 - ZvT - Game 6.SC2Replay,84643,us,0:13:04,Zerg,Dyncommon,Terran,ViBE
+MechItHappen,Terran,ViBE,Zerg,Jagannatha LE,1v1,True,Diamond 1 - ZvT - Game 8.SC2Replay,84643,us,0:18:55,Zerg,MechItHappen,Terran,ViBE
+ViBE,Zerg,MonteCristo,Zerg,Lightshade LE,1v1,True,Diamond 2 - ZvZ - Game 14.SC2Replay,84643,us,0:04:54,Zerg,MonteCristo,Zerg,ViBE
+OKOKOK,Zerg,Clutch,Zerg,Ancient Cistern LE,1v1,True,Ancient Cistern LE.SC2Replay,90136,us,0:12:11,Zerg,OKOKOK,Zerg,Clutch
+ViBE,Zerg,DangerZone,Terran,Beckett Industries LE,1v1,True,Diamond 2 - ZvT - Game 20.SC2Replay,84643,us,0:34:58,Terran,ViBE,Zerg,DangerZone
+ZackZapper,Zerg,OKOKOK,Zerg,Hardwire LE,1v1,True,Hardwire LE.SC2Replay,86383,us,0:00:02,Zerg,ZackZapper,Zerg,OKOKOK
+sOrt,Zerg,OKOKOK,Zerg,Tropical Sacrifice,1v1,True,Tropical Sacrifice (2).SC2Replay,88500,us,0:10:09,Zerg,OKOKOK,Zerg,sOrt
+RedDogRiz,Protoss,ViBE,Zerg,Lightshade LE,1v1,True,Diamond 1 - ZvP - Game 14.SC2Replay,84643,us,0:06:34,Protoss,ViBE,Zerg,RedDogRiz
+Revel,Zerg,OKOKOK,Zerg,NeoHumanity LE,1v1,True,NeoHumanity LE.SC2Replay,90136,us,0:04:36,Zerg,OKOKOK,Zerg,Revel
+ShotUpInsuln,Protoss,ViBE,Zerg,2000 Atmospheres LE,1v1,True,Diamond 1 - ZvP - Game 19.SC2Replay,84643,us,0:11:21,Zerg,ShotUpInsuln,Protoss,ViBE
+ProtossBigot,Protoss,ViBE,Zerg,Blackburn LE,1v1,True,Diamond 3 - ZvP - Game 13.SC2Replay,84643,us,0:07:02,Zerg,ProtossBigot,Protoss,ViBE
+Kibbler,Terran,ViBE,Zerg,Beckett Industries LE,1v1,True,Diamond 2 - ZvT - Game 19.SC2Replay,84643,us,0:06:27,Zerg,Kibbler,Terran,ViBE
+OKOKOK,Terran,eidolon,Protoss,Tropical Sacrifice,1v1,True,Tropical Sacrifice (6).SC2Replay,88500,us,0:11:48,Terran,eidolon,Protoss,OKOKOK
+Prodigy,Zerg,OKOKOK,Protoss,Altitude LE,1v1,True,Altitude LE.SC2Replay,90136,us,0:08:45,Zerg,OKOKOK,Protoss,Prodigy
+DaGreenie,Protoss,OKOKOK,Zerg,Moondance,1v1,True,Moondance (6).SC2Replay,88500,us,0:13:43,Zerg,DaGreenie,Protoss,OKOKOK
+OKOKOK,Zerg,Takuah,Protoss,Waterfall,1v1,True,Waterfall.SC2Replay,88500,us,0:16:52,Protoss,OKOKOK,Zerg,Takuah
+Tyluk,Protoss,OKOKOK,Zerg,Waterfall,1v1,True,Waterfall (13).SC2Replay,88500,us,0:13:49,Protoss,OKOKOK,Zerg,Tyluk
+OKOKOK,Zerg,gut,Zerg,Inside and Out,1v1,True,Inside and Out (11).SC2Replay,88500,us,0:04:54,Zerg,OKOKOK,Zerg,gut
+Serenity,Zerg,OKOKOK,Protoss,Stargazers,1v1,True,Stargazers (4).SC2Replay,88500,us,0:14:40,Protoss,Serenity,Zerg,OKOKOK
+OKOKOK,Zerg,Ghost,Terran,Cosmic Sapphire,1v1,True,Cosmic Sapphire (9).SC2Replay,88500,us,0:03:33,Zerg,Ghost,Terran,OKOKOK
+ViBE,Zerg,jangens,Terran,Beckett Industries LE,1v1,True,Diamond 3 - ZvT - Game 11.SC2Replay,84643,us,0:05:02,Zerg,jangens,Terran,ViBE
+llllllllllll,Terran,OKOKOK,Zerg,Stargazers,1v1,True,Stargazers (6).SC2Replay,88500,us,0:24:10,Terran,OKOKOK,Zerg,llllllllllll
+ViBE,Zerg,BobStaMan,Zerg,Oxide LE,1v1,True,Diamond 2 - ZvZ - Game 24.SC2Replay,84643,us,0:10:38,Zerg,BobStaMan,Zerg,ViBE
+Scuachi,Zerg,OKOKOK,Terran,Moondance,1v1,True,Moondance (14).SC2Replay,88500,us,0:05:27,Terran,Scuachi,Zerg,OKOKOK
+HappyFeet,Zerg,OKOKOK,Zerg,NeoHumanity LE,1v1,True,NeoHumanity LE (2).SC2Replay,90136,us,0:14:05,Zerg,HappyFeet,Zerg,OKOKOK
+ViBE,Zerg,AlexZugas,Terran,2000 Atmospheres LE,1v1,True,Diamond 1 - ZvT - Game 11.SC2Replay,84643,us,0:05:12,Zerg,AlexZugas,Terran,ViBE
+OKOKOK,Terran,Maverik,Terran,Inside and Out,1v1,True,Inside and Out (8).SC2Replay,88500,us,0:13:34,Terran,Maverik,Terran,OKOKOK
+OKOKOK,Terran,Megahertz,Protoss,Waterfall,1v1,True,Waterfall (7).SC2Replay,88500,us,0:18:06,Protoss,OKOKOK,Terran,Megahertz
+OKOKOK,Zerg,IIIIIIIIIIII,Protoss,Tropical Sacrifice,1v1,True,Tropical Sacrifice (7).SC2Replay,88500,us,0:02:47,Protoss,OKOKOK,Zerg,IIIIIIIIIIII
+OKOKOK,Protoss,Harry,Protoss,Cosmic Sapphire,1v1,True,Cosmic Sapphire (8).SC2Replay,88500,us,0:04:00,Protoss,Harry,Protoss,OKOKOK
+xXFierceXx,Terran,OKOKOK,Terran,Tropical Sacrifice,1v1,True,Tropical Sacrifice (10).SC2Replay,88500,us,0:16:28,Terran,xXFierceXx,Terran,OKOKOK
+OKOKOK,Zerg,BioHazzerg,Zerg,Cosmic Sapphire,1v1,True,Cosmic Sapphire (11).SC2Replay,88500,us,0:09:44,Zerg,OKOKOK,Zerg,BioHazzerg
+stirfry,Zerg,OKOKOK,Zerg,Tropical Sacrifice,1v1,True,Tropical Sacrifice.SC2Replay,88500,us,0:03:21,Zerg,stirfry,Zerg,OKOKOK
+ChocP,Terran,ViBE,Zerg,Jagannatha LE,1v1,True,Diamond 1 - ZvT - Game 17.SC2Replay,84643,us,0:11:28,Terran,ViBE,Zerg,ChocP
+ViBE,Zerg,MACE,Zerg,2000 Atmospheres LE,1v1,True,Diamond 2 - ZvZ - Game 9.SC2Replay,84643,us,0:09:57,Zerg,MACE,Zerg,ViBE
+DarthPimpius,Terran,OKOKOK,Terran,Moondance,1v1,True,Moondance (15).SC2Replay,88500,us,0:04:55,Terran,OKOKOK,Terran,DarthPimpius
+OKOKOK,Terran,Uber,Protoss,Tropical Sacrifice,1v1,True,Tropical Sacrifice (5).SC2Replay,88500,us,0:11:12,Terran,Uber,Protoss,OKOKOK
+ViBE,Zerg,reanimation,Terran,Lightshade LE,1v1,True,Diamond 2 - ZvT - Game 17.SC2Replay,84643,us,0:21:16,Zerg,reanimation,Terran,ViBE
+ViBE,Zerg,Smaug,Protoss,Blackburn LE,1v1,True,Diamond 3 - ZvP - Game 16.SC2Replay,84643,us,0:06:05,Zerg,Smaug,Protoss,ViBE
+OKOKOK,Zerg,Ares,Zerg,Waterfall,1v1,True,Waterfall (10).SC2Replay,88500,us,0:05:36,Zerg,OKOKOK,Zerg,Ares
+ViBE,Zerg,cGChrome,Zerg,Romanticide LE,1v1,True,Diamond 1 - ZvZ - Game 15.SC2Replay,84643,us,0:04:29,Zerg,cGChrome,Zerg,ViBE
+Doomroca,Protoss,ViBE,Zerg,Jagannatha LE,1v1,True,Diamond 2 - ZvP - Game 25.SC2Replay,84643,us,0:17:37,Protoss,ViBE,Zerg,Doomroca
+Bert,Protoss,ViBE,Zerg,Oxide LE,1v1,True,Diamond 2 - ZvP - Game 6.SC2Replay,84643,us,0:09:29,Zerg,Bert,Protoss,ViBE
+OKOKOK,Zerg,DoeRaeMe,Terran,Inside and Out,1v1,True,Inside and Out (7).SC2Replay,88500,us,0:07:42,Zerg,DoeRaeMe,Terran,OKOKOK
+pompesfunèb,Terran,OKOKOK,Terran,Stargazers,1v1,True,Stargazers (10).SC2Replay,88500,us,0:06:08,Terran,OKOKOK,Terran,pompesfunèb
+Baneful,Protoss,OKOKOK,Terran,Moondance,1v1,True,Moondance (13).SC2Replay,88500,us,0:10:23,Terran,Baneful,Protoss,OKOKOK
+OKOKOK,Terran,seenoevil,Protoss,Waterfall,1v1,True,Waterfall (16).SC2Replay,88500,us,0:13:54,Protoss,OKOKOK,Terran,seenoevil
+SkinMilk,Zerg,ViBE,Zerg,Jagannatha LE,1v1,True,Diamond 1 - ZvZ - Game 13.SC2Replay,84643,us,0:10:37,Zerg,SkinMilk,Zerg,ViBE
+ViBE,Zerg,Dooties,Terran,Lightshade LE,1v1,True,Diamond 2 - ZvT - Game 5.SC2Replay,84643,us,0:11:53,Terran,ViBE,Zerg,Dooties
+OKOKOK,Zerg,BaiLLiE,Protoss,Stargazers,1v1,True,Stargazers (9).SC2Replay,88500,us,0:19:17,Protoss,OKOKOK,Zerg,BaiLLiE
+OKOKOK,Zerg,timoncito,Terran,Stargazers,1v1,True,Stargazers (2).SC2Replay,88500,us,0:17:53,Terran,OKOKOK,Zerg,timoncito
+OKOKOK,Zerg,Xellows,Terran,Stargazers,1v1,True,Stargazers (3).SC2Replay,88500,us,0:11:31,Terran,OKOKOK,Zerg,Xellows
+majorbacon,Protoss,ViBE,Zerg,Lightshade LE,1v1,True,Diamond 2 - ZvP - Game 8.SC2Replay,84643,us,0:06:02,Zerg,majorbacon,Protoss,ViBE
+MuNuKuKu,Zerg,OKOKOK,Zerg,Waterfall,1v1,True,Waterfall (4).SC2Replay,88500,us,0:06:37,Zerg,OKOKOK,Zerg,MuNuKuKu
+OKOKOK,Terran,darentkx,Protoss,Cosmic Sapphire,1v1,True,Cosmic Sapphire (12).SC2Replay,88500,us,0:19:31,Protoss,OKOKOK,Terran,darentkx
+Smite,Terran,OKOKOK,Zerg,Data-C,1v1,True,Data-C.SC2Replay,88500,us,0:12:50,Terran,OKOKOK,Zerg,Smite
+ViBE,Zerg,Vex,Terran,Oxide LE,1v1,True,Diamond 1 - ZvT - Game 24.SC2Replay,84643,us,0:15:58,Zerg,Vex,Terran,ViBE
+OKOKOK,Terran,demangelo,Terran,Waterfall,1v1,True,Waterfall (14).SC2Replay,88500,us,0:23:49,Terran,demangelo,Terran,OKOKOK
+OKOKOK,Zerg,WeBringHavoc,Terran,Data-C,1v1,True,Data-C (4).SC2Replay,88500,us,0:18:32,Zerg,WeBringHavoc,Terran,OKOKOK
+OKOKOK,Zerg,SegaGenesis,Protoss,Moondance,1v1,True,Moondance (11).SC2Replay,88500,us,0:06:21,Protoss,OKOKOK,Zerg,SegaGenesis
+ViBE,Zerg,Yoko,Protoss,Blackburn LE,1v1,True,Diamond 2 - ZvP - Game 26.SC2Replay,84643,us,0:10:14,Zerg,Yoko,Protoss,ViBE
+OKOKOK,Terran,Meridius,Protoss,Inside and Out,1v1,True,Inside and Out (10).SC2Replay,88500,us,0:27:10,None,,,None
+ZurieL,Terran,ViBE,Zerg,2000 Atmospheres LE,1v1,True,Diamond 2 - ZvT - Game 3.SC2Replay,84643,us,0:10:42,Zerg,ZurieL,Terran,ViBE
+OKOKOK,Zerg,GivhertheD,Zerg,Moondance,1v1,True,Moondance (3).SC2Replay,88500,us,0:00:06,Zerg,GivhertheD,Zerg,OKOKOK
+OKOKOK,Zerg,Hero,Protoss,Royal Blood LE,1v1,True,Royal Blood LE (2).SC2Replay,90136,us,0:06:46,Protoss,OKOKOK,Zerg,Hero
+OKOKOK,Zerg,Ourion,Protoss,Babylon LE,1v1,True,Babylon LE.SC2Replay,90870,us,0:10:34,Zerg,Ourion,Protoss,OKOKOK
+SuppliedWing,Terran,OKOKOK,Protoss,Moondance,1v1,True,Moondance (8).SC2Replay,88500,us,0:06:29,Terran,OKOKOK,Protoss,SuppliedWing
+OKOKOK,Zerg,YodaEater,Zerg,Data-C,1v1,True,Data-C (2).SC2Replay,88500,us,0:08:46,Zerg,OKOKOK,Zerg,YodaEater
+Khaaaaaannnn,Zerg,OKOKOK,Zerg,Blackburn LE,1v1,True,Blackburn LE.SC2Replay,87702,us,0:07:30,Zerg,Khaaaaaannnn,Zerg,OKOKOK
+LHoldit,Protoss,OKOKOK,Zerg,Inside and Out,1v1,True,Inside and Out (2).SC2Replay,88500,us,0:06:26,Protoss,OKOKOK,Zerg,LHoldit
