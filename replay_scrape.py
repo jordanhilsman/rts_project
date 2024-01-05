@@ -5,7 +5,7 @@ import re
 
 import pandas as pd
 
-replays = pathlib.Path("/home/jordan/Documents/git/sc2_project/Replays").glob("*.*")
+replays = pathlib.Path("/home/jordan/Documents/git/rts_project/Replays").glob("*.*")
 
 files = [str(f) for f in replays if f.is_file()]
 
@@ -46,4 +46,7 @@ for f in files:
         pack_info["file"].append(f.split("/")[-1])
 
 replay_dataframe = pd.DataFrame.from_dict(pack_info)
+
+replay_dataframe['winner_race'] = replay_dataframe['winner'].apply(lambda x: 'None' if x == 'none' else str(x).split()[6].strip('()')) 
+
 replay_dataframe.to_csv("pack_data.csv", index=None)
