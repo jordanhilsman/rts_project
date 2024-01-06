@@ -48,14 +48,32 @@ for f in files:
 
 replay_dataframe = pd.DataFrame.from_dict(pack_info)
 
-replay_dataframe['winrace'] = replay_dataframe['winner'].apply(lambda x: 'None' if x == 'None' else str(x).split()[-1]).str.strip('()')
+replay_dataframe["winrace"] = (
+    replay_dataframe["winner"]
+    .apply(lambda x: "None" if x == "None" else str(x).split()[-1])
+    .str.strip("()")
+)
 
-replay_dataframe['loser'] = np.where(replay_dataframe['winner'].str.contains('Player 1'), replay_dataframe['player2'], np.where(replay_dataframe['winner'].str.contains('Player 2'), replay_dataframe['player1'], None))
+replay_dataframe["loser"] = np.where(
+    replay_dataframe["winner"].str.contains("Player 1"),
+    replay_dataframe["player2"],
+    np.where(
+        replay_dataframe["winner"].str.contains("Player 2"), replay_dataframe["player1"], None
+    ),
+)
 
 
-replay_dataframe['loser_race'] = np.where(replay_dataframe['winner'].str.contains('Player 1'), replay_dataframe['player2_race'], np.where(replay_dataframe['winner'].str.contains('Player 2'), replay_dataframe['player1_race'], None))
-replay_dataframe['winner_name'] = replay_dataframe['winner'].apply(lambda x: 'None' if x == 'None' else str(x).split()[-2])
+replay_dataframe["loser_race"] = np.where(
+    replay_dataframe["winner"].str.contains("Player 1"),
+    replay_dataframe["player2_race"],
+    np.where(
+        replay_dataframe["winner"].str.contains("Player 2"), replay_dataframe["player1_race"], None
+    ),
+)
+replay_dataframe["winner_name"] = replay_dataframe["winner"].apply(
+    lambda x: "None" if x == "None" else str(x).split()[-2]
+)
 
-replay_dataframe.drop(columns=['winner'], inplace=True)
+replay_dataframe.drop(columns=["winner"], inplace=True)
 
 replay_dataframe.to_csv("pack_data.csv", index=None)
